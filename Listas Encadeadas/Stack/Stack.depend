@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1300553065 source:g:\meus arquivos\ufpe\período ii - 2011.1\algoritmos e estruturas de dados\cpp\listas encadeadas\stack\stack.cpp
+	<iostream>
+	<exception>
+

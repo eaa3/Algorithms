@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<ActiveTarget name="Debug" />
+	<File name="Graph.h" open="1" top="1" tabpos="0">
+		<Cursor position="10159" topLine="375" />
+	</File>
+	<File name="HeapMin.h" open="0" top="0" tabpos="4">
+		<Cursor position="509" topLine="25" />
+	</File>
+	<File name="Queue.h" open="0" top="0" tabpos="2">
+		<Cursor position="323" topLine="0" />
+	</File>
+	<File name="SList.h" open="0" top="0" tabpos="1">
+		<Cursor position="38" topLine="0" />
+	</File>
+	<File name="Stack.h" open="0" top="0" tabpos="0">
+		<Cursor position="641" topLine="20" />
+	</File>
+	<File name="main.cpp" open="0" top="0" tabpos="0">
+		<Cursor position="88" topLine="0" />
+	</File>
+</CodeBlocks_layout_file>

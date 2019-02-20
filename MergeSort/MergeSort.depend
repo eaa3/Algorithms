@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1306975525 source:g:\meus arquivos\ufpe\período ii - 2011.1\algoritmos e estruturas de dados\cpp\mergesort\main.cpp
+	<iostream>
+	<time.h>
+	<stdlib.h>
+

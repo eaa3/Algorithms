@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1307897192 source:g:\meus arquivos\ufpe\período ii - 2011.1\algoritmos e estruturas de dados\cpp\grafos\grafo - listas de adj\grafo-adjlist\main.cpp
+	<iostream>
+	"Graph.h"
+
+1307897272 g:\meus arquivos\ufpe\período ii - 2011.1\algoritmos e estruturas de dados\cpp\grafos\grafo - listas de adj\grafo-adjlist\graph.h
+	"SList.h"
+	"Stack.h"
+	"Queue.h"
+	"HeapMin.h"
+	<limits>
+	<iostream>
+
+1307894792 g:\meus arquivos\ufpe\período ii - 2011.1\algoritmos e estruturas de dados\cpp\grafos\grafo - listas de adj\grafo-adjlist\slist.h
+
+1306080597 g:\meus arquivos\ufpe\período ii - 2011.1\algoritmos e estruturas de dados\cpp\grafos\grafo - listas de adj\grafo-adjlist\stack.h
+	"SList.h"
+
+1306121391 g:\meus arquivos\ufpe\período ii - 2011.1\algoritmos e estruturas de dados\cpp\grafos\grafo - listas de adj\grafo-adjlist\queue.h
+	"SList.h"
+
+1306207316 g:\meus arquivos\ufpe\período ii - 2011.1\algoritmos e estruturas de dados\cpp\grafos\grafo - listas de adj\grafo-adjlist\heapmin.h
+

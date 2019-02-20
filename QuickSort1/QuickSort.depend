@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1306805425 source:g:\meus arquivos\ufpe\período ii - 2011.1\algoritmos e estruturas de dados\cpp\quicksort\main.cpp
+	"quicksort.h"
+
+1306805630 g:\meus arquivos\ufpe\período ii - 2011.1\algoritmos e estruturas de dados\cpp\quicksort\quicksort.h
+	<iostream>
+

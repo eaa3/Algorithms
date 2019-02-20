@@ -1,0 +1,65 @@
+# depslib dependency file v1.0
+1302305421 source:c:\users\mano\desktop\Árvore\arvore\main.cpp
+	"tree.h"
+	"vetor2D.h"
+
+1302307367 c:\users\mano\desktop\Árvore\arvore\tree.h
+	"node.h"
+	"info.h"
+	<math.h>
+
+1300844154 c:\users\mano\desktop\Árvore\arvore\node.h
+	<iostream>
+
+1300844594 c:\users\mano\desktop\Árvore\arvore\info.h
+	"node.h"
+
+1302304671 source:c:\users\mano\desktop\Árvore\arvore\node.cpp
+	"node.h"
+
+1300844594 source:c:\users\mano\desktop\Árvore\arvore\info.cpp
+	"info.h"
+
+1302325952 source:c:\users\mano\desktop\Árvore\arvore\tree.cpp
+	"tree.h"
+
+1301586522 source:c:\users\mano\desktop\Árvore\arvore\vetor2d.cpp
+	"vetor2D.h"
+
+1302229535 c:\users\mano\desktop\Árvore\arvore\vetor2d.h
+	<math.h>
+	<string>
+	<sstream>
+
+1302493908 source:g:\meus arquivos\ufpe\período ii - 2011.1\algoritmos e estruturas de dados\cpp\Árvores\Árvore\arvore\main.cpp
+	"tree.h"
+	"vetor2D.h"
+
+1302307367 g:\meus arquivos\ufpe\período ii - 2011.1\algoritmos e estruturas de dados\cpp\Árvores\Árvore\arvore\tree.h
+	"node.h"
+	"info.h"
+	<math.h>
+
+1300844154 g:\meus arquivos\ufpe\período ii - 2011.1\algoritmos e estruturas de dados\cpp\Árvores\Árvore\arvore\node.h
+	<iostream>
+
+1300844594 g:\meus arquivos\ufpe\período ii - 2011.1\algoritmos e estruturas de dados\cpp\Árvores\Árvore\arvore\info.h
+	"node.h"
+
+1302229535 g:\meus arquivos\ufpe\período ii - 2011.1\algoritmos e estruturas de dados\cpp\Árvores\Árvore\arvore\vetor2d.h
+	<math.h>
+	<string>
+	<sstream>
+
+1302304671 source:g:\meus arquivos\ufpe\período ii - 2011.1\algoritmos e estruturas de dados\cpp\Árvores\Árvore\arvore\node.cpp
+	"node.h"
+
+1302325952 source:g:\meus arquivos\ufpe\período ii - 2011.1\algoritmos e estruturas de dados\cpp\Árvores\Árvore\arvore\tree.cpp
+	"tree.h"
+
+1301586522 source:g:\meus arquivos\ufpe\período ii - 2011.1\algoritmos e estruturas de dados\cpp\Árvores\Árvore\arvore\vetor2d.cpp
+	"vetor2D.h"
+
+1300844594 source:g:\meus arquivos\ufpe\período ii - 2011.1\algoritmos e estruturas de dados\cpp\Árvores\Árvore\arvore\info.cpp
+	"info.h"
+

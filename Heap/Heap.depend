@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1303180160 source:g:\meus arquivos\ufpe\período ii - 2011.1\algoritmos e estruturas de dados\cpp\heap\heap.cpp
+	"heap.h"
+
+1303186002 g:\meus arquivos\ufpe\período ii - 2011.1\algoritmos e estruturas de dados\cpp\heap\heap.h
+
+1303183034 source:g:\meus arquivos\ufpe\período ii - 2011.1\algoritmos e estruturas de dados\cpp\heap\main.cpp
+	<iostream>
+	"heap.h"
+

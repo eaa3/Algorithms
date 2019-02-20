@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1302786426 source:c:\users\mano\desktop\햞vore avl\main.cpp
+	<iostream>
+	"tree.h"
+
+1302488343 c:\users\mano\desktop\햞vore avl\tree.h
+	"node.h"
+	"info.h"
+	<math.h>
+
+1302485083 c:\users\mano\desktop\햞vore avl\node.h
+	<iostream>
+
+1302485184 c:\users\mano\desktop\햞vore avl\info.h
+	"node.h"
+
+1302485093 source:c:\users\mano\desktop\햞vore avl\node.cpp
+	"node.h"
+
+1302485184 source:c:\users\mano\desktop\햞vore avl\info.cpp
+	"info.h"
+
+1302786291 source:c:\users\mano\desktop\햞vore avl\tree.cpp
+	"tree.h"
+

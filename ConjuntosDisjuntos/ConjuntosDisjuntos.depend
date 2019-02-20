@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1306036285 source:g:\meus arquivos\ufpe\período ii - 2011.1\algoritmos e estruturas de dados\cpp\conjuntosdisjuntos\elemento.cpp
+	"elemento.h"
+
+1306040227 g:\meus arquivos\ufpe\período ii - 2011.1\algoritmos e estruturas de dados\cpp\conjuntosdisjuntos\elemento.h
+	<cstdlib>
+
+1306040725 source:g:\meus arquivos\ufpe\período ii - 2011.1\algoritmos e estruturas de dados\cpp\conjuntosdisjuntos\main.cpp
+	<iostream>
+	"conjunto.h"
+
+1306034887 source:g:\meus arquivos\ufpe\período ii - 2011.1\algoritmos e estruturas de dados\cpp\conjuntosdisjuntos\conjunto.cpp
+	"conjunto.h"
+
+1306040318 g:\meus arquivos\ufpe\período ii - 2011.1\algoritmos e estruturas de dados\cpp\conjuntosdisjuntos\conjunto.h
+	"elemento.h"
+
+1306038655 source:c:\users\mano\desktop\conjuntosdisjuntos\elemento.cpp
+	"elemento.h"
+
+1306040227 c:\users\mano\desktop\conjuntosdisjuntos\elemento.h
+	<cstdlib>
+
+1306038723 source:c:\users\mano\desktop\conjuntosdisjuntos\main.cpp
+	<iostream>
+	"elemento.h"
+
+1306038655 source:c:\users\mano\desktop\conjuntosdisjuntos\conjunto.cpp
+	"conjunto.h"
+
+1306038655 c:\users\mano\desktop\conjuntosdisjuntos\conjunto.h
+	"elemento.h"
+
