@@ -16,3 +16,11 @@
 *.pdb 
 *.idb
 *.out
+*.in
+*.bak
+*.rar
+*.prefs
+*.class
+L0Q2JOAO.out.txt
+L0Q2TESTE.txt
+*.classpath

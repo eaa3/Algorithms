@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1302749018 source:g:\meus arquivos\ufpe\período ii - 2011.1\algoritmos e estruturas de dados\l2 - lista dois\l2q2\l2q2.cpp
+	<fstream>
+	<string>
+	<iostream>
+
+1303269684 source:g:\meus arquivos\ufpe\período ii - 2011.1\algoritmos e estruturas de dados\listas\l2 - lista dois\l2q2\l2q2.cpp
+	<cstdio>
+	<cstring>
+

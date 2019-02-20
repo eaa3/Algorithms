@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1306668853 source:g:\meus arquivos\ufpe\período ii - 2011.1\algoritmos e estruturas de dados\listas\l3 - lista três\l3q2\grafo-adjlist-l3q2\main.cpp
+	<cstdio>
+	"Graph.h"
+
+1306668881 g:\meus arquivos\ufpe\período ii - 2011.1\algoritmos e estruturas de dados\listas\l3 - lista três\l3q2\grafo-adjlist-l3q2\graph.h
+	"SList.h"
+	"Stack.h"
+	"Queue.h"
+	"HeapMin.h"
+	<limits>
+
+1306278440 g:\meus arquivos\ufpe\período ii - 2011.1\algoritmos e estruturas de dados\listas\l3 - lista três\l3q2\grafo-adjlist-l3q2\slist.h
+
+1306080597 g:\meus arquivos\ufpe\período ii - 2011.1\algoritmos e estruturas de dados\listas\l3 - lista três\l3q2\grafo-adjlist-l3q2\stack.h
+	"SList.h"
+
+1306121391 g:\meus arquivos\ufpe\período ii - 2011.1\algoritmos e estruturas de dados\listas\l3 - lista três\l3q2\grafo-adjlist-l3q2\queue.h
+	"SList.h"
+
+1306207316 g:\meus arquivos\ufpe\período ii - 2011.1\algoritmos e estruturas de dados\listas\l3 - lista três\l3q2\grafo-adjlist-l3q2\heapmin.h
+

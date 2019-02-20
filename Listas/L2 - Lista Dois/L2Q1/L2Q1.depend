@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1302319883 source:g:\meus arquivos\ufpe\período ii - 2011.1\algoritmos e estruturas de dados\l2 - lista dois\l2q1\node.cpp
+	"node.h"
+
+1302319883 g:\meus arquivos\ufpe\período ii - 2011.1\algoritmos e estruturas de dados\l2 - lista dois\l2q1\node.h
+	<string>
+
+1302322721 source:g:\meus arquivos\ufpe\período ii - 2011.1\algoritmos e estruturas de dados\l2 - lista dois\l2q1\tree.cpp
+	"tree.h"
+
+1302322057 g:\meus arquivos\ufpe\período ii - 2011.1\algoritmos e estruturas de dados\l2 - lista dois\l2q1\tree.h
+	"node.h"
+
+1300844594 source:g:\meus arquivos\ufpe\período ii - 2011.1\algoritmos e estruturas de dados\l2 - lista dois\l2q1\info.cpp
+	"info.h"
+
+1300844594 g:\meus arquivos\ufpe\período ii - 2011.1\algoritmos e estruturas de dados\l2 - lista dois\l2q1\info.h
+	"node.h"
+
+1302324325 source:g:\meus arquivos\ufpe\período ii - 2011.1\algoritmos e estruturas de dados\l2 - lista dois\l2q1\main.cpp
+	<fstream>
+	<string>
+
+1303262464 source:g:\meus arquivos\ufpe\período ii - 2011.1\algoritmos e estruturas de dados\l2 - lista dois\l2q1\l2q1.cpp
+	<cstdio>
+	<cstring>
+
+1303671355 source:g:\meus arquivos\ufpe\período ii - 2011.1\algoritmos e estruturas de dados\listas\l2 - lista dois\l2q1\l2q1.cpp
+	<cstdio>
+	<cstring>
+

@@ -1,0 +1,36 @@
+# depslib dependency file v1.0
+1306121371 source:g:\meus arquivos\ufpe\período ii - 2011.1\algoritmos e estruturas de dados\cpp\grafos\grafo - listas de adj\grafo-adjlist\main.cpp
+	<iostream>
+	"Graph.h"
+
+1306124351 g:\meus arquivos\ufpe\período ii - 2011.1\algoritmos e estruturas de dados\cpp\grafos\grafo - listas de adj\grafo-adjlist\graph.h
+	"SList.h"
+	"Stack.h"
+	"Queue.h"
+	<iostream>
+
+1306090409 g:\meus arquivos\ufpe\período ii - 2011.1\algoritmos e estruturas de dados\cpp\grafos\grafo - listas de adj\grafo-adjlist\slist.h
+
+1306080597 g:\meus arquivos\ufpe\período ii - 2011.1\algoritmos e estruturas de dados\cpp\grafos\grafo - listas de adj\grafo-adjlist\stack.h
+	"SList.h"
+
+1306121391 g:\meus arquivos\ufpe\período ii - 2011.1\algoritmos e estruturas de dados\cpp\grafos\grafo - listas de adj\grafo-adjlist\queue.h
+	"SList.h"
+
+1306130239 source:g:\meus arquivos\ufpe\período ii - 2011.1\algoritmos e estruturas de dados\listas\l3 - lista três\l3q1\grafo-adjlist-l3q1\main.cpp
+	<cstdio>
+	"Graph.h"
+
+1306131444 g:\meus arquivos\ufpe\período ii - 2011.1\algoritmos e estruturas de dados\listas\l3 - lista três\l3q1\grafo-adjlist-l3q1\graph.h
+	"SList.h"
+	"Stack.h"
+	"Queue.h"
+
+1306090409 g:\meus arquivos\ufpe\período ii - 2011.1\algoritmos e estruturas de dados\listas\l3 - lista três\l3q1\grafo-adjlist-l3q1\slist.h
+
+1306080597 g:\meus arquivos\ufpe\período ii - 2011.1\algoritmos e estruturas de dados\listas\l3 - lista três\l3q1\grafo-adjlist-l3q1\stack.h
+	"SList.h"
+
+1306121391 g:\meus arquivos\ufpe\período ii - 2011.1\algoritmos e estruturas de dados\listas\l3 - lista três\l3q1\grafo-adjlist-l3q1\queue.h
+	"SList.h"
+

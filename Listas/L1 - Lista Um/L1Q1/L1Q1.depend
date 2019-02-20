@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1301112167 source:g:\meus arquivos\ufpe\período ii - 2011.1\algoritmos e estruturas de dados\l1 - lista um\l1q1\l1q1.cpp
+	<cstdio>
+	<cstring>
+	<math.h>
+	<iostream>
+

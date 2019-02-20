@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<ActiveTarget name="Debug" />
+	<File name="Graph.h" open="0" top="0" tabpos="0">
+		<Cursor position="3366" topLine="168" />
+	</File>
+	<File name="HeapMin.h" open="0" top="0" tabpos="0">
+		<Cursor position="2515" topLine="76" />
+	</File>
+	<File name="SList.h" open="0" top="0" tabpos="0">
+		<Cursor position="34" topLine="0" />
+	</File>
+	<File name="main.cpp" open="0" top="0" tabpos="0">
+		<Cursor position="589" topLine="0" />
+	</File>
+</CodeBlocks_layout_file>
